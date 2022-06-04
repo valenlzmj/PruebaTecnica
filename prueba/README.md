@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+# Página para la prueba técnica
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+En este repositorio se encuentran los archivos para presentar la prueba técnica propuesta, esta plataforma web fue creada con el uso de REACT y Node.js. A continuación se hará una explicación de los pasos a seguir para poder hacer uso de estos archivos.
 
-## Available Scripts
+## Instalación de Node.js
 
-In the project directory, you can run:
+1. Entra a la página oficial de [node.js](https://nodejs.org/es/download/) donde podrás realizar la respectiva descarga según el sistema operativo con el que cuente tu computadora.
+2. Nos aseguraremos que Node.js esté correctamente instalado. Para esto, abre la terminal de tu computadora (la puedes buscar como "cdm" en el buscador del inicio), escribe la palabra "node" y presiona Enter. Debe aparecerte la versión de la libreria.
 
-### `npm start`
+## Pasos necesarios para correr el código
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone el repositorio en una carpeta de su escritorio, para esto use el comando 'git clone https://github.com/valenlzmj/PruebaTecnica.git' en su consola de git.
+1. Entre a una terminal en su computadora (la de la pc, la de git, la de su editor de código, etc) y asegurese de estar en la dirección donde clonó el repositorio.
+2. Escriba "npm install", presione enter y espere a que cargue.
+3. Después escriba "npm start" para así iniciar el servidor y poder visualizar la página web en su navegador.
