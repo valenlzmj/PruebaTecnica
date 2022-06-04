@@ -10,6 +10,7 @@ En este repositorio se encuentran los archivos para presentar la prueba técnica
 ## Pasos necesarios para correr el código
 
 1. Clone el repositorio en una carpeta de su escritorio, para esto use el comando 'git clone https://github.com/valenlzmj/PruebaTecnica.git' en su consola de git.
-1. Entre a una terminal en su computadora (la de la pc, la de git, la de su editor de código, etc) y asegurese de estar en la dirección donde clonó el repositorio.
-2. Escriba "npm install", presione enter y espere a que cargue.
-3. Después escriba "npm start" para así iniciar el servidor y poder visualizar la página web en su navegador.
+2. Entre a una terminal en su computadora (la de la pc, la de git, la de su editor de código, etc) y asegurese de estar en la dirección donde clonó el repositorio.
+3. Recordar asegurarse de correr la carpeta llamada "prueba".
+4. Cuando esté parado en la carpeta "prueba" dentro de la terminal escriba "npm install", presione enter y espere a que cargue.
+5. Después escriba "npm start" para así iniciar el servidor y poder visualizar la página web en su navegador.
